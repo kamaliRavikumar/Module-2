@@ -31,7 +31,7 @@ for i in range(n,0,-1):
 
 ```
 ### OUTPUT
-```
+
 <img width="933" height="444" alt="Screenshot 2025-08-26 144939" src="https://github.com/user-attachments/assets/98a1564c-4af5-491c-a74c-a7c2d11dc82b" />
 
 ```
