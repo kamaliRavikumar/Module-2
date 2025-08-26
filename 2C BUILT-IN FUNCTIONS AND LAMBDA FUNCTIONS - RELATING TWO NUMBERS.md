@@ -4,37 +4,40 @@
 ---
 
 ### AIM  
-To write a Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function.
-
+Write a program in Python to calculate the value of the following expression by using lambda function.
+The expression is -(x / 10) + (y / 2) * z
 ---
 
 ### ALGORITHM
 
-1. Begin the program.  
-2. Use `eval()` to get two numbers (`num1` and `num2`) from the user.  
-3. Define a lambda function `max` that takes two arguments `x` and `y`.  
-4. The lambda function compares the numbers and prints:
-   - If `x > y`, then it prints: "`num2` is smaller than `num1`".
-   - Otherwise, it prints: "`num1` is smaller than `num2`".
-5. Call the lambda function by passing `num1` and `num2` as arguments.  
-6. Terminate the program.
-
+1. Start the program.
+2. Input three integer values: x, y, and z.
+3. Define a lambda function res that calculates the expression:(x/10)+(y/2)×z
+4. Call the lambda function with the values of x, y, and z.
+5. Store the result of the calculation.
+6. Display the final result and end the program.
 ---
 
 ### PROGRAM
 
 ```
-
+x=int(input())
+y=int(input())
+z=int(input())
+res=lambda x,y,z:(x /  10) + (y / 2) * z
+print(res(x,y,z))
 ```
 
 ### OUTPUT
 
-```
+<img width="1025" height="330" alt="Screenshot 2025-08-26 194407" src="https://github.com/user-attachments/assets/b898bad5-4b0f-4b59-9e62-5488b2e8a0af" />
+
 
 ```
 
 ### RESULT
 
 ```
+Thus the Python program to calculate the value of the expression using lambda function is executed successfully.
 
 ```
