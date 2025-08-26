@@ -32,7 +32,7 @@ for i in range(n,0,-1):
 ```
 ### OUTPUT
 ```
-<img width="932" height="443" alt="image" src="https://github.com/user-attachments/assets/ec1e2681-0b76-4445-8ca3-0c64d37603b8" />
+<img width="933" height="444" alt="Screenshot 2025-08-26 144939" src="https://github.com/user-attachments/assets/98a1564c-4af5-491c-a74c-a7c2d11dc82b" />
 
 ```
 ### RESULT
